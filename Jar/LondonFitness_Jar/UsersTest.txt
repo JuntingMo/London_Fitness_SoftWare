@@ -1,0 +1,3 @@
+123@bupt.edu.cn,A12345,A,card member,0
+234@bupt.edu.cn,B123456,B,card member,0
+345@qmul.ac.uk,C1234567,C,card member,0
